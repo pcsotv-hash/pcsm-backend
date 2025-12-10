@@ -1,0 +1,18 @@
+# environment
+.env
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# local db
+dev.db
+*.sqlite3
+
+# generated files
+fastapi_app/static/cards/
+
+# generated runtime assets
+fastapi_app/static/qrcodes/
+fastapi_app/static/cards/
