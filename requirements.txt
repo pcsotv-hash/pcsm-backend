@@ -8,3 +8,4 @@ pillow
 fpdf2
 qrcode
 cairosvg
+reportlab
