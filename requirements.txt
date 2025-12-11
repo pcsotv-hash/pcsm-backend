@@ -9,3 +9,8 @@ fpdf2
 qrcode
 cairosvg
 reportlab
+
+passlib[bcrypt]
+python-jose[cryptography]
+email-validator
+python-multipart
